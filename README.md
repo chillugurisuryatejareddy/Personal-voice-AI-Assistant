@@ -1,6 +1,6 @@
 # Personal voice & AI Assistant
 
-This project is a Python-based virtual assistant named "STR" that can perform various tasks including:\
+This project is a Python-based virtual assistant named "STR" that can perform various tasks including:
 
 Controlling the system: It can take screenshots, mute/unmute the system, and exit the program.\
 Weather information: It can provide weather information for a given city.\
@@ -15,23 +15,23 @@ Conversation: It can hold conversations and respond to greetings.
 Additional functionalities:
 
 The assistant can change its name and voice based on user preference.\
-It can be silenced or have its volume adjusted.\
+It can be silenced or have its volume adjusted.
 
 Libraries used:
 
-pyttsx3\
-speech_recognition\
-os\
-web browser\
-Wikipedia\
-requests\
-DateTime\
-pyjokes\
-wolframalpha\
-ecapture\
-sys\
-time\
-threading
+* pyttsx3
+* speech_recognition
+* os
+* web browser
+* Wikipedia
+* requests
+* DateTime
+* pyjokes
+* wolframalpha
+* ecapture
+* sys
+* time
+* threading
 
 Points to Consider:
 
